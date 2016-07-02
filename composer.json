@@ -1,0 +1,19 @@
+{
+  "name": "huwenlong92/hlib",
+  "description": "",
+  "homepage": "https://github.com/huwenlong92/hlib",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Henly",
+      "email": "henly@henly.com",
+      "homepage": "http://www.henly.me"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "HLib\\": "src/"
+    }
+  }
+}

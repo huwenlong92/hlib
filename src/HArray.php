@@ -6,7 +6,7 @@
  * Time: 02:13
  */
 
-namespace hlib;
+namespace HLib;
 
 
 class HArray
